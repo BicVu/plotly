@@ -1,4 +1,4 @@
-### View live project at [d3-js.herokuapp.com] (http://d3-js.herokuapp.com/)
+### View live project at [d3-js.herokuapp.com](http://d3-js.herokuapp.com/)
 
 ## Challenge
 
